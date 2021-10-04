@@ -257,6 +257,11 @@ a {
 	width: 25%;
   }
 
+  .svgicon {
+	  width: 5%;
+	  height: 5%;
+  }
+
   @media only screen and (max-width: 576px) {
 		.rowmenu {
 		width: 100%;
